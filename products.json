@@ -1,0 +1,146 @@
+[
+    {
+        "name" : "Body Cream",
+        "category" : "skincare",
+        "price" : "50.25",
+        "imgSrc" : "images/product1.jpg"
+    },
+    {
+        "name" : "Hand&Foot Cream",
+        "category" : "skincare",
+        "price" : "102.00",
+        "imgSrc" : "images/product4.jpg"
+    },
+    {
+        "name" : "Foot Palm",
+        "category" : "skincare",
+        "price" : "35.00",
+        "imgSrc" : "images/product2.jpg"
+    },
+    {
+        "name" : "Sugar Scrub",
+        "category" : "skincare",
+        "price" : "42.75",
+        "imgSrc" : "images/product3.jpg"
+    },
+    {
+        "name" : "Nails Combo",
+        "category" : "Nails",
+        "price" : "80",
+        "imgSrc" : "images/set1.jpg"
+    },
+    {
+        "name" : "Foot Combo",
+        "category" : "skincare",
+        "price" : "85.50",
+        "imgSrc" : "images/set2.jpg"
+    },
+    {
+        "name" : "Body Cream Combo",
+        "category" : "skincare",
+        "price" : "150.00",
+        "imgSrc" : "images/set3.jpg"
+    },
+    {
+        "name" : "Body Cream Combo",
+        "category" : "skincare",
+        "price" : "165.00",
+        "imgSrc" : "images/set4.jpg"
+    },
+    {
+        "name" : "Face Foam",
+        "category" : "Face Product",
+        "price" : "49.00",
+        "imgSrc" : "images/face-wash1.jpg"
+    },
+    {
+        "name" : "Face Oil",
+        "category" : "Face Product",
+        "price" : "30.00",
+        "imgSrc" : "images/face-wash2.jpg"
+    },
+    {
+        "name" : "Face Foam",
+        "category" : "Face Product",
+        "price" : "35.20",
+        "imgSrc" : "images/face-wash3.jpg"
+    },
+    {
+        "name" : "Face Solution",
+        "category" : "Face Product",
+        "price" : "35.99",
+        "imgSrc" : "images/face-wash4.png"
+    },
+    {
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "12.25",
+        "imgSrc" : "images/nails-combo1.jpg"
+    },
+    {
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "30.00",
+        "imgSrc" : "images/nails-combo2.jpg"
+    },
+    {
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "35.00",
+        "imgSrc" : "images/nails-combo3.jpg"
+    },
+    {
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "15.50",
+        "imgSrc" : "images/nails-combo4.jpg"
+    },
+    {
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "7.50",
+        "imgSrc" : "images/yellow.jpg"
+    },
+    {  
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "7.50",
+        "imgSrc" : "images/light-pink.jpg"
+    },
+    {
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "7.50",
+        "imgSrc" : "images/light-purple.jpg"
+    },
+    {
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "7.99",
+        "imgSrc" : "images/bright-orange.jpg"
+    },
+    {
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "7.50",
+        "imgSrc" : "images/purple.jpg"
+    },
+    {  
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "7.45",
+        "imgSrc" : "images/pink.jpg"
+    },
+    {
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "7.50",
+        "imgSrc" : "images/light-green.jpg"
+    },
+    {
+        "name" : "Nails Polish",
+        "category" : "Nails Combo",
+        "price" : "7.99",
+        "imgSrc" : "images/silver-glitter.jpg"
+    }
+]
